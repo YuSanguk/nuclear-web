@@ -9,3 +9,9 @@
 ### 프로젝트 개발 기간
 
 - 2022/12/30일 ~ 2022/12월/31일
+
+---
+
+### 참고한 자료
+
+- [핵융합 장점 관련..](https://www.keei.re.kr/web_keei/d_results.nsf/0/8B9E222FCD831CEF4925816400039217/$file/16-02_%EC%88%98%EC%8B%9C_%ED%95%B5%EC%9C%B5%ED%95%A9%EB%B0%9C%EC%A0%84%EC%9D%98%20%EC%82%AC%ED%9A%8C%EA%B2%BD%EC%A0%9C%EC%A0%81%20%EC%9D%B8%EC%8B%9D%20%EB%B6%84%EC%84%9D.pdf)
